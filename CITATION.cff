@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LengthOfStay.csv
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - name: Microsoft
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/microsoft/r-server-hospital-length-of-stay
+repository-code: 'https://github.com/juleswules/hospital-length-of-stay'
