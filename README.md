@@ -56,7 +56,7 @@ Missing information that could prove to be valuable in predicting LOS includes a
 
 ## Analysis:
 
-Analysis was performed using the online SQL editor CSVFiddle and visualizations were created in PowerBI.
+Analysis was performed using the online SQL editor CSVFiddle and visualizations were created in PowerBI, which can be viewed [here](https://github.com/juleswules/hospital-length-of-stay/blob/main/LOS%20PowerBI%20Dasbboard.pdf).
 
 <ins>**SQL Queries Used:**</ins>
 
